@@ -64,14 +64,14 @@ Visualization
 ## 🚀 How to Run
 ```bash
 pip install -r requirements.txt
-python market_basket_analysis.py
+python market_basket_analysis.ipynb
 ```
 Make sure `Groceries_dataset.csv` is in the same folder as the script.
 
 ## 📁 Repo Structure
 ```
 market-basket-analysis/
-├── market_basket_analysis.py
+├── market_basket_analysis.ipynb
 ├── Groceries_dataset.csv
 ├── README.md
 ├── requirements.txt
